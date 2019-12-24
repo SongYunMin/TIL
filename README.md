@@ -37,3 +37,9 @@ OS Term Project 다시한번 도전!!
 ### 블로그 이전 실패..
 - 여러가지 사유가 있지만,, 우선 기존 Data를 옮기는 과정이 매우힘듬..<br>
 - 일단은 그냥 기존 네이버를 사용하는 것으로..
+
+## 2019.12.25
+### Capston Desing Data Transfer Protocol Structure Redesing
+- 기존 App -> Server 방식<br>
+- 변경 Server -> App 방식 변경 예정<br>
+- 방학 계획을 실행하려면 우선적으로 변경해야하는 부분..
