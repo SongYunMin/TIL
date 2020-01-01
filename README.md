@@ -54,3 +54,8 @@ OS Term Project 다시한번 도전!!
 - 구현중이던 프로젝트 파일 새로 만들 계획
 - Android Studio 사용 <br>
 - C# Language 이용하여 Management Program 개발 <br>
+
+## 2020.1.1
+### 새해가 밝았습니다!
+- 새해목표 수립!!<br>
+- 1 day 1 commit 목표 시작!<br>
