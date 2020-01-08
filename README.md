@@ -96,3 +96,11 @@ TIL의 조건은 두가지 밖에 안되지만 생각보다 정말 지키기 힘
 - 지문 인증 결과를 서버로 전송하지 않음<br>
 - 위, 변조 불가 - > 부인방지 제공<br>
 - 현제 Samsung Pay, Kpay등 FIDO 인증 사용 중이며 결제 부인방지가 가능하다, 또한 Onetouch만으로 신속한 결제를 제공한다.
+
+## 2020.1.8
+### Visual Studio 환경에서 Stack Memory 사용
+- Int Type Data 2개를 생성, 각 Memory Address 확인시에 주소값이 떨어져 있는 이유<br>
+- Debug모드로 빌드 되면 Local Variable이 Stack Area에 순차적으로 Allocation 되지만, 변수와 변수 사이 빈 공간이 추가된다.<br>
+이것은 Visual C가 Debug 작업을 할 때 사용하려고 비워둔 공간.<br>
+- 이 빈 공간은 Debug 모드에서만 제공되기 떄문에 "Release" Mode로 변경하고 솔루션을 다시 빌드 해보면 빈공간이 사라지는 것을 알 수 있다.<br>
+- 또 한, 32비트(x86) 에서는 지역 변수가 선언되면 나중에 선언된 변수의 주소가 감소되는 형태이지만 64비트에서는 나중에 선언된 변수의 주소가 더 크다는 차이점이 있으니 주의.
