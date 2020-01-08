@@ -95,7 +95,7 @@ TIL의 조건은 두가지 밖에 안되지만 생각보다 정말 지키기 힘
 - 비 대면 인증 방식<br>
 - 지문 인증 결과를 서버로 전송하지 않음<br>
 - 위, 변조 불가 - > 부인방지 제공<br>
-- 현제 Samsung Pay, Kpay등 FIDO 인증 사용 중이며 결제 부인방지가 가능하다, 또한 Onetouch만으로 신속한 결제를 제공한다.
+- 현재 Samsung Pay, Kpay등 FIDO 인증 사용 중이며 결제 부인방지가 가능하다, 또한 Onetouch만으로 신속한 결제를 제공한다.
 
 ## 2020.1.8
 ### Visual Studio 환경에서 Stack Memory 사용
