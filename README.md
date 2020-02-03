@@ -190,8 +190,21 @@ TIL의 조건은 두가지 밖에 안되지만 생각보다 정말 지키기 힘
 
 ## 2020.2.2
 ### 모바일 티켓팅 서비스
+- AsyncTask 의 정확한 이해 필요<br>
+- C# 관리프로그램의 필요성? phpMyAdmin 으로 TIcket Value 등을 충분히 관리 할 수있음.<br>
+- Code Level에서 존재하는 비효율 성을 제거하는 습관이 필요<br>
 
 ## 2020.2.3
 ### 모바일 티켓팅 서비스
 - AsyncTask란? 하나의 Class에서 UI작업을 쉽게 할 수 있게 해주는 메소드<br>
-  -
+- 1. execute() 명령어를 통해 AsyncTask를 실행<br>
+- 2. AsyncTask로 백그라운드 작업을 실행하기 전에 onPreExcuted()가 실행된다, 이 부분에는 이미지 로딩 작업이라면 로딩중 이미지를 띄워 놓기 등, 스레드 작업 이전에 수행할 동작을 구현함<br>
+- 3. 새로 만든 스레드에서 백그라운드 작업을 수행, execute()메소드를 호출할 때 사용된 Parameter를 전달 받음<br>
+- 4. doInBackground() 에서 중간 중간 진행 상태를 UI에 업데이트 하도록 하려면 publishProgress()메소드를 호출한다.<br>
+- 5. onProgressUpdate() 메소드는 publishProgress()가 호출 될 때마다 자동으로 호출 됨<br>
+- 6. doInBackground() 메소드에서 작업이 끝나면 onPostExcured()로 결과 Parameter를 Return 하면서 그 Return 값을 통해 스레드 작업이 끝났을 때의 동작을 구현함.<br>
+- **여기서 핵심은 onPreExecute(), onProgressUpdate(), onPostExecure() 메소드는 메인 스레드에서 실행 되므로 UI 객체에 자유롭게 접근할 수 있다는 것<br>
+- 헷갈리는 부분은 AsyncTask Generic Type. AsyncTask<Params, Progress, Result> 에서, 인자1,인자2,인자3에 들어갈 값이 무엇이고 어디에 쓰인다는 지 헷갈리는 부분이 있었는데, 방법은 아래와 같음.<br>
+- Params : doInBackground Parameter Type이 되며, execute Method 인자 값이 됨.<br>
+- Progress : doInBackground 작업 시, 진행 단위의 타입으로 onProgressUpdate Parameter Type임<br>
+- Result : doInBeckground Return Value로, onPostExecure Parameter Type임<br>
