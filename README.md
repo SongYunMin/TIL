@@ -203,7 +203,7 @@ TIL의 조건은 두가지 밖에 안되지만 생각보다 정말 지키기 힘
 - 4. doInBackground() 에서 중간 중간 진행 상태를 UI에 업데이트 하도록 하려면 publishProgress()메소드를 호출한다.<br>
 - 5. onProgressUpdate() 메소드는 publishProgress()가 호출 될 때마다 자동으로 호출 됨<br>
 - 6. doInBackground() 메소드에서 작업이 끝나면 onPostExcured()로 결과 Parameter를 Return 하면서 그 Return 값을 통해 스레드 작업이 끝났을 때의 동작을 구현함.<br>
-- **여기서 핵심은 onPreExecute(), onProgressUpdate(), onPostExecure() 메소드는 메인 스레드에서 실행 되므로 UI 객체에 자유롭게 접근할 수 있다는 것<br>
+- **여기서 핵심은 onPreExecute(), onProgressUpdate(), onPostExecure() 메소드는 메인 스레드에서 실행 되므로 UI 객체에 자유롭게 접근할 수 있다는 것**<br>
 - 헷갈리는 부분은 AsyncTask Generic Type. AsyncTask<Params, Progress, Result> 에서, 인자1,인자2,인자3에 들어갈 값이 무엇이고 어디에 쓰인다는 지 헷갈리는 부분이 있었는데, 방법은 아래와 같음.<br>
 - Params : doInBackground Parameter Type이 되며, execute Method 인자 값이 됨.<br>
 - Progress : doInBackground 작업 시, 진행 단위의 타입으로 onProgressUpdate Parameter Type임<br>
