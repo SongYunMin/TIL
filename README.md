@@ -208,3 +208,6 @@ TIL의 조건은 두가지 밖에 안되지만 생각보다 정말 지키기 힘
 - Params : doInBackground Parameter Type이 되며, execute Method 인자 값이 됨.<br>
 - Progress : doInBackground 작업 시, 진행 단위의 타입으로 onProgressUpdate Parameter Type임<br>
 - Result : doInBeckground Return Value로, onPostExecure Parameter Type임<br>
+
+## 2020.2.4
+### 모바일 티켓팅 서비스
