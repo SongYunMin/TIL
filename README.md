@@ -209,5 +209,13 @@ TIL의 조건은 두가지 밖에 안되지만 생각보다 정말 지키기 힘
 - Progress : doInBackground 작업 시, 진행 단위의 타입으로 onProgressUpdate Parameter Type임<br>
 - Result : doInBeckground Return Value로, onPostExecure Parameter Type임<br>
 
-## 2020.2.4
+## 2020.2.5
 ### 모바일 티켓팅 서비스
+#### Android Studio - ArrayList
+1. ListView에 넣어줄 초기화 된 DataType을 만듬<br>
+2. 초기화 된 Data를 가지고 Adapter를 거쳐 ListView각 Position에 뿌려준다.<br>
+3. Adapter는 ListView에 Data를 넣어주는 **중개역할을 해줌**<br>
+- SimpleAdapter = 간단하게 ListView에 Data를 넣어주며, 확장이 다소 적음<br>
+- CustomAdapter = Data를 넣어주는 방식을 원하는대로 설정 가능, 확장성이 높음<br>
+- CustomAdapter 사용을 권장함, SimpleAdapter는 추후에 스크롤간 데이터가 섞이는 현상 발생할 수 있음<br>
+
