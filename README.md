@@ -219,3 +219,8 @@ TIL의 조건은 두가지 밖에 안되지만 생각보다 정말 지키기 힘
 - CustomAdapter = Data를 넣어주는 방식을 원하는대로 설정 가능, 확장성이 높음<br>
 - CustomAdapter 사용을 권장함, SimpleAdapter는 추후에 스크롤간 데이터가 섞이는 현상 발생할 수 있음<br>
 
+## 2020.2.7
+### 모바일 티켓팅 서비스
+1. SimpleAdapter 는 ListView 를 Custom 해서 사용할 수 없음 -> 즉, Data의 Type을 여러가지 사용할 수 없음,(img,Text,Button)<br>
+2. View의 Data는 Holder를 이용해서 따로 관리하는게 편리 함.<br>
+3. Adapter 도 마찬가지로, class화 하여 따로 관리하는게 운영상 편리한 부분이 있음, Activity Class에 전부 코드를 작성하면 불편함.
