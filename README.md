@@ -327,3 +327,6 @@ TIL의 조건은 두가지 밖에 안되지만 생각보다 정말 지키기 힘
 - 리눅스
 - 파이어폭스
 - IDE(Integrated Development Environment)
+
+## 2020.04.03
+### Data Structure
