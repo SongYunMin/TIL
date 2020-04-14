@@ -306,11 +306,9 @@ TIL의 조건은 두가지 밖에 안되지만 생각보다 정말 지키기 힘
 ## 2020.04.03
 ### Data Structure
 
-# [암호학]1장 - 컴퓨터 보안 개요
+## 2020.04.14
 
-Created: Apr 12, 2020 2:38 AM
-Last Edited Time: Apr 14, 2020 3:18 PM
-Status: Cryptographic Seminar
+# [암호학]1장 - 컴퓨터 보안 개요
 
 ---
 
