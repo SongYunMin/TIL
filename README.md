@@ -488,3 +488,22 @@ X.800은 개방형 통신시스템의 프로토콜 계층에서 제공되는 하
 - 이러한 함수를 위한 시스템 스택에서의 공간을 활성 레코드(Activation Record)라고 한다.
 - 이러한 준비가 끝나면 호출된 함수의 시작 위치로 점프하여 수행을 시작함, 만약 호출된 함수가 자기 자신이라면 자기 자신의 시작 위치로 점프하게된다. 
 - 호출된 함수가 끝나게 되면 Ststem Stack에서 Return Address를 추출하여 호출한 함수로 되돌아가게 됨 
+
+## 2020.05.30
+### Data Structure
+- ** Deque **
+- Queue의 전단과 후단에서 모두 삽입과 삭제가 가능한 큐를 의미
+- 중간 삽입 삭제는 불가
+### Deque ADT
+- Object : n개의 element형 요소들의 순서 있는 모임
+- Operation : 
+- create () :: = Deque 생성
+- init (dp) :: = Deque 초기화
+- is_empty(dq) :: = 공백 상태인지 검사
+- is_full(dp) :: = 포화 상태인지 검사
+- add_front(dp, item) :: = Deque의 앞에 요소 추가
+- add_rear(dq, item) :: = Deque의 뒤에 요소 추가
+- delete_front :: = Deque의 앞에있는 요소를 반환한 뒤 삭제함
+- delete_rear :: = Deque의 뒤에있는 요소를 반환한 뒤 삭제함
+- get_front :: = Deque의 앞에서 삭제하지 않고 앞에 있는 요소 반환
+- get_rear :: = Deque의 뒤에서 삭제하지 않고 뒤에 있는 요소 반환
