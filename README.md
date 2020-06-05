@@ -507,3 +507,5 @@ X.800은 개방형 통신시스템의 프로토콜 계층에서 제공되는 하
 - delete_rear :: = Deque의 뒤에있는 요소를 반환한 뒤 삭제함
 - get_front :: = Deque의 앞에서 삭제하지 않고 앞에 있는 요소 반환
 - get_rear :: = Deque의 뒤에서 삭제하지 않고 뒤에 있는 요소 반환
+
+[Test](www.naver.com)
