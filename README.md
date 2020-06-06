@@ -509,7 +509,7 @@ X.800은 개방형 통신시스템의 프로토콜 계층에서 제공되는 하
 - get_rear :: = Deque의 뒤에서 삭제하지 않고 뒤에 있는 요소 반환
 
 ## Data Structure
-### Linkde List
+### Linked List
 
 [Test](#2019.11.30)<br>
 [Test_2](#2019년-11월)
