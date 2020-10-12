@@ -751,3 +751,41 @@ JSP와 Servlet은 완전 다른 개념이 아니며, Servlet을 사용해 웹을
 - html, CSS 만으로 이루어진 웹페이지는 그냥 PDF 파일을 보여주는것과 크게 다르지 않음
 - 세가지 언어 모두 웹서버에서 코드를 보내주면 브라우저가 해석해서 실행 함
 
+# MVC Pattern
+
+- M(Model) : Logic(연산 등) 수행(Data Task 포함)을 담당
+- V(View) : User 화면 출력을 담당
+- C(Controller) : 중앙에서 Model과 View의 제어를 담당
+
+**MVC Pattern이란?**
+
+Web Application Server 안에서의 역할을 3가지로 나눠서 구성하는 Design Patten 을 의미함.
+
+일반 Java Program을 작성할 때, 기능별로 Modularization 하는 것과 다르지 않음. Web App도 Java에서 확장되어 나온 기능이기 때문에 기본적인 원리는 같음
+
+
+## Controller
+
+- 모든 요청은 Controller로 모임, 사용자가 직접 URL을 입력해서 접근하건 View → View를 호출하건 Model → Model을 호출하건 모두 Controller를 거치게 됨, **일종의 작업 분배기**
+- Tomcat Server에서 구동되는 가장 핵심적인 역할이기 때문에 Servlet(HttpServlet) Class를 상속받아서 Servlet이 됨.
+    - 특히 사용자의 요청 내용과 Connection 정보 등을 내장 Object 형태로 가지고 있어 이를 적절히 처리할 수 있는 기능을 가지고 있음
+- 이 정보를 Model에게 넘겨서 Logic을 수행하게 하고, 다시 Result를 받아 View에게 전달해 최종 화면을 User에게 넘겨 줌
+- 또는 바로 View를 Call해서 User에게 화면을 보여줄 수도 있음
+
+## Model
+
+- 실제 Logic을 수행하는 Java Class.
+- Command는 Logic을 수행하는 기능을 가진 Class를 의미, DAO/DTO 는 DB와 연동되어 Data Task를 담당하는 기능의 Class
+- 일반적인 Java Programming 과 동일한 구조
+
+## View
+
+- 최종 작업 결과물을 가지고 적절한 화면을 구성해서 User에게 전달하는 기능
+- 화면 구성은 JSP가 편리하기 때문에 대부분 JSP를 사용해 View를 구성
+- Tomcat Server는 Controller가 최종적으로 실행시킨 JSP File을 Servlet으로 변환해서 Compile한 뒤 실행
+- 결과적으로 사용자에게 도달하는 Data는 html형태의 Code가 됨
+- Browser는 Result Code를 받아 화면 구성을 하여 User에게 보여줌
+
+MVC Pattern을 꼭 지켜야 하나?
+
+개발자가 필수적으로 MVC Patten을 지켜야 하는 것은 아님. 하지만 많은 Framework 들이 MVC Patten을 사용하고 있고, 운영 및 유지보수, 협업이라는 측면에서 가장 효율적인 Patten중 하나이기 때문에 항상 이 구조를 염두해 두고 개발하는 것이 좋음.
