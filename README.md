@@ -858,5 +858,9 @@ MVC Pattern을 꼭 지켜야 하나?
 
 Serverless는 필요할때만 서버를 띄워서 사용하면 된다는 장점이 있음
 
-## 2020.12.22
-- Node.js 확장성 설계
+## 2020.12.29
+- TDD (Test Driven Develoment)
+- TDD는 그저 Test First Develoment 이다.
+- 테스트 코드를 작성한 것과 TDD를 혼동하면 안된다.
+  - TDD는 테스트 코드를 먼저 작성한 것이다.
+- JUnit 에서 실패하는 테스트를 **먼저** 작성하는 습관을 들여보자. 
