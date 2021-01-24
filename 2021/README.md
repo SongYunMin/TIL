@@ -5,3 +5,4 @@
 [2021년 1월 20일 TIL - 함수형 프로그래밍](https://velog.io/@sms8377/TIL-120-%ED%95%A8%EC%88%98%ED%98%95-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)<br>
 [2021년 1월 21일 TIL - HTML 부터 다시..?](https://velog.io/@sms8377/TIL-121-HTML-%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%8B%9C)<br>
 [2021년 1월 22일 TIL - Javascript OOP, 짝(?)코딩](https://velog.io/@sms8377/TIL-122-Pair-Programming)<br>
+[2021년 1월 24일 TIL - MiddleTerm Project](https://velog.io/@sms8377)<br>
