@@ -6,3 +6,4 @@
 [2021년 1월 21일 TIL - HTML 부터 다시..?](https://velog.io/@sms8377/TIL-121-HTML-%EB%B6%80%ED%84%B0-%EB%8B%A4%EC%8B%9C)<br>
 [2021년 1월 22일 TIL - Javascript OOP, 짝(?)코딩](https://velog.io/@sms8377/TIL-122-Pair-Programming)<br>
 [2021년 1월 24일 TIL - Arrow Function - this Bind](https://velog.io/@sms8377/TIL-124-Arrow-Function-this-Bind)<br>
+[2021년 1월 25일 TIL - JS Design](https://velog.io/@sms8377/TIL-125-Javascript-Design)<br>
