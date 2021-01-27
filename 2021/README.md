@@ -7,3 +7,5 @@
 [2021년 1월 22일 TIL - Javascript OOP, 짝(?)코딩](https://velog.io/@sms8377/TIL-122-Pair-Programming)<br>
 [2021년 1월 24일 TIL - Arrow Function - this Bind](https://velog.io/@sms8377/TIL-124-Arrow-Function-this-Bind)<br>
 [2021년 1월 25일 TIL - JS Design](https://velog.io/@sms8377/TIL-125-Javascript-Design)<br>
+[2021년 1월 26일 TIL - Custom Event](https://velog.io/@sms8377/TIL-126)<br>
+[2021년 1월 27일 TIL - JS Garbage Collection](https://velog.io/@sms8377/TIL-127-JS-Garbage-Collection)<br>
