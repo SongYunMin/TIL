@@ -9,3 +9,4 @@
 [2021년 1월 25일 TIL - JS Design](https://velog.io/@sms8377/TIL-125-Javascript-Design)<br>
 [2021년 1월 26일 TIL - Custom Event](https://velog.io/@sms8377/TIL-126)<br>
 [2021년 1월 27일 TIL - JS Garbage Collection](https://velog.io/@sms8377/TIL-127-JS-Garbage-Collection)<br>
+[2021년 1월 28일 TIL - JS bind, call](https://velog.io/@sms8377/TIL-128-JS-bind-call-apply)<br>
