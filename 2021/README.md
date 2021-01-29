@@ -10,4 +10,4 @@
 [2021년 1월 26일 TIL - Custom Event](https://velog.io/@sms8377/TIL-126)<br>
 [2021년 1월 27일 TIL - JS Garbage Collection](https://velog.io/@sms8377/TIL-127-JS-Garbage-Collection)<br>
 [2021년 1월 28일 TIL - JS bind, call](https://velog.io/@sms8377/TIL-128-JS-bind-call-apply)<br>
-[2021년 1월 29일 TIL - Class 메서드에서 preventDefalut() 에러시 해결법]()<br>
+[2021년 1월 29일 TIL - Class 메서드에서 preventDefalut() 에러시 해결법](https://velog.io/@sms8377/TIL-129-JS-class-preventDefaulte)<br>
