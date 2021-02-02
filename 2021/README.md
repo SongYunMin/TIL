@@ -13,5 +13,5 @@
 [2021년 1월 29일 TIL - Class 메서드에서 preventDefalut() 에러시 해결법](https://velog.io/@sms8377/TIL-129-JS-class-preventDefaulte)<br>
 
 # February
-[2021년 2월 1일 TIL - UUID(Universally Unique IDentifier)](https://velog.io/@sms8377/TIL-21-UUIDUniversally-Unique-IDentifier)
-[2021년 2월 2일 TIL - 인터넷의 동작 원리](https://velog.io/@sms8377/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%ACOSI-7-layer)
+[2021년 2월 1일 TIL - UUID(Universally Unique IDentifier)](https://velog.io/@sms8377/TIL-21-UUIDUniversally-Unique-IDentifier)<br>
+[2021년 2월 2일 TIL - 인터넷의 동작 원리](https://velog.io/@sms8377/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%ACOSI-7-layer)<br>
