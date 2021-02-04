@@ -16,3 +16,4 @@
 [2021년 2월 1일 TIL - UUID(Universally Unique IDentifier)](https://velog.io/@sms8377/TIL-21-UUIDUniversally-Unique-IDentifier)<br>
 [2021년 2월 2일 TIL - 인터넷의 동작 원리](https://velog.io/@sms8377/%EC%9D%B8%ED%84%B0%EB%84%B7%EC%9D%98-%EB%8F%99%EC%9E%91-%EC%9B%90%EB%A6%ACOSI-7-layer)<br>
 [2021년 2월 3일 TIL - DNS 동작 과정](https://velog.io/@sms8377/TIL23-DNS-%EB%8F%99%EC%9E%91-%EA%B3%BC%EC%A0%95)<br>
+[2021년 2월 4일 TIL - WireShark를 이용한 간단 패킷 분석](https://velog.io/@sms8377/TIL-24-Wireshark%EB%A5%BC-%EC%9D%B4%EC%9A%A9%ED%95%9C-%EA%B0%84%EB%8B%A8-%ED%8C%A8%ED%82%B7-%EB%B6%84%EC%84%9D)<br>
