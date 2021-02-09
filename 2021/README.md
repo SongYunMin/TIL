@@ -20,3 +20,4 @@
 [2021년 2월 5일 TIL - Telnet 명령어를 통해 HTTP요청하기, Traceroute를 통해 경로 탐색하기](https://velog.io/@sms8377/TIL-25-텔넷Telnet명령을-통해-HTTP-요청하기)<br>
 [2021년 2월 7일 TIL - 네트워크...네트워크...](https://velog.io/@sms8377/TIL-27-Routing-Protocol)<br>
 [2021년 2월 8일 TIL - Node를 다시 살펴 봅시다](https://velog.io/@sms8377/TIL-28-Node를-다시-살펴-봅시다)<br>
+[2021년 2월 9일 TIL - ES6 Module, CommonJS](https://velog.io/@sms8377/TIL-29-ES6-Module-CommonJS)<br>
