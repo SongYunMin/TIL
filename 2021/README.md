@@ -25,3 +25,5 @@
 [2021년 2월 15일 TIL - require cache, Post Body](https://velog.io/@sms8377/TIL-215-require-cache-Post-Body)<br>
 [2021년 2월 18일 TIL - 비동기 프로그래밍](https://velog.io/@sms8377/TIL-218-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)<br>
 [2021년 2월 28일 TIL - XMLHttpRequest 반환 값 사용하기](https://velog.io/@sms8377/TIL-228-XMLHttpRequest-%EB%B0%98%ED%99%98-%EA%B0%92-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0Callback)
+# March
+[2021년 3월 2일 TIL - 쿠키와 세션 그리고 차이점](https://velog.io/@sms8377/TIL-32-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B0%A8%EC%9D%B4%EC%A0%90)
