@@ -24,3 +24,4 @@
 [2021년 2월 10일 TIL - Node.js HTTP Method, Postman](https://velog.io/@sms8377/TIL-210-Node.js-HTTP-Method-Postman)<br>
 [2021년 2월 15일 TIL - require cache, Post Body](https://velog.io/@sms8377/TIL-215-require-cache-Post-Body)<br>
 [2021년 2월 18일 TIL - 비동기 프로그래밍](https://velog.io/@sms8377/TIL-218-%EB%B9%84%EB%8F%99%EA%B8%B0-%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D)<br>
+[2021년 2월 28일 TIL - XMLHttpRequest 반환 값 사용하기](https://velog.io/@sms8377/TIL-228-XMLHttpRequest-%EB%B0%98%ED%99%98-%EA%B0%92-%EC%82%AC%EC%9A%A9%ED%95%98%EA%B8%B0Callback)
