@@ -28,6 +28,4 @@
 # March
 [2021년 3월 2일 TIL - 쿠키와 세션 그리고 차이점](https://velog.io/@sms8377/TIL-32-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B0%A8%EC%9D%B4%EC%A0%90)<br>
 [2021년 3월 15일 TIL - 쿠키 옵션](https://velog.io/@sms8377/TIL-316-%EC%BF%A0%ED%82%A4-%EC%98%B5%EC%85%98-%EB%B0%8F-JWT)<br>
-[2021년 3월 17일 TIL - DB에 길이를 알 수 없느 배열 저장]()
-
-[2021년 3월 2일 TIL - 쿠키와 세션 그리고 차이점](https://velog.io/@sms8377/TIL-32-%EC%BF%A0%ED%82%A4%EC%99%80-%EC%84%B8%EC%85%98-%EA%B7%B8%EB%A6%AC%EA%B3%A0-%EC%B0%A8%EC%9D%B4%EC%A0%90)<br>
+[2021년 3월 17일 TIL - DB에 길이를 알 수 없는 배열 저장]()<br>
