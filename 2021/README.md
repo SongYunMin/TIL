@@ -30,3 +30,4 @@
 [2021년 3월 15일 TIL - 쿠키 옵션](https://velog.io/@sms8377/TIL-316-%EC%BF%A0%ED%82%A4-%EC%98%B5%EC%85%98-%EB%B0%8F-JWT)<br>
 [2021년 3월 17일 TIL - 페이스에 대한 나의 생각](https://velog.io/@sms8377/TIL-317-데이터-베이스의-기본)<br>
 [2021년 3월 18일 TIL - ORM, 테이블 인덱스](https://velog.io/@sms8377/Database-테이블-인덱스)<br>
+[2021년 3월 22일 TIL - ORM이란?](https://velog.io/@sms8377/Database-ORM%EC%9D%B4%EB%9E%80)<br>
