@@ -31,3 +31,4 @@
 [2021년 3월 17일 TIL - 페이스에 대한 나의 생각](https://velog.io/@sms8377/TIL-317-데이터-베이스의-기본)<br>
 [2021년 3월 18일 TIL - ORM, 테이블 인덱스](https://velog.io/@sms8377/Database-테이블-인덱스)<br>
 [2021년 3월 22일 TIL - ORM이란?](https://velog.io/@sms8377/Database-ORM%EC%9D%B4%EB%9E%80)<br>
+[2021년 3월 30일 TIL - Vue에서 컴포넌트란?](https://velog.io/@sms8377/Javascript-Vue-%EC%97%90%EC%84%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%9E%80)<br>
