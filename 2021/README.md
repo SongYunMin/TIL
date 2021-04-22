@@ -34,3 +34,5 @@
 [2021년 3월 30일 TIL - Vue에서 컴포넌트란?](https://velog.io/@sms8377/Javascript-Vue-%EC%97%90%EC%84%9C-%EC%BB%B4%ED%8F%AC%EB%84%8C%ED%8A%B8%EB%9E%80)<br>
 # April
 [2021년 4월 7일 TIL - Webpack이란?](https://velog.io/@sms8377/Javascript-Webpack-%EC%9D%B4%EB%9E%80)<br>
+[2021년 4월 15일 TIL - REST API](https://velog.io/@sms8377/Server-REST-REST-API%EB%9E%80)<br>
+[2021년 4월 20일 TIL - GraphQL API, Apollo Client](https://velog.io/@sms8377/Server-GraphQL-API-Apollo-Client)<br>
