@@ -36,3 +36,4 @@
 [2021년 4월 7일 TIL - Webpack이란?](https://velog.io/@sms8377/Javascript-Webpack-%EC%9D%B4%EB%9E%80)<br>
 [2021년 4월 15일 TIL - REST API](https://velog.io/@sms8377/Server-REST-REST-API%EB%9E%80)<br>
 [2021년 4월 20일 TIL - GraphQL API, Apollo Client](https://velog.io/@sms8377/Server-GraphQL-API-Apollo-Client)<br>
+[2021년 4월 24일 TIL - 수동화, 자동화 테스트]()
