@@ -47,3 +47,4 @@
 [2021년 5월 26일 TIL - MS 공식문서로 이해하는 Docker - 2 앱 업데이트](https://velog.io/@sms8377/DevOps-MS-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-Docker-2-%EC%95%B1-%EC%97%85%EB%8D%B0%EC%9D%B4%ED%8A%B8)<br>
 [2021년 5월 27일 TIL - MS 공식문서로 이해하는 Docker - 3 앱 공유](https://velog.io/@sms8377/DevOps-MS-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-Docker-3-%EC%95%B1-%EA%B3%B5%EC%9C%A0)<br>
 [2021년 5월 28일 TIL - MS 공식문서로 이해하는 Docker - 4 데이터베이스 공유](https://velog.io/@sms8377/DevOps-MS-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-Docker-4-%EB%8D%B0%EC%9D%B4%ED%84%B0%EB%B2%A0%EC%9D%B4%EC%8A%A4-%EC%9C%A0%EC%A7%80)<br>
+[2021년 5월 29일 TIL - MS 공식문서로 이해하는 Docker - 5 바인드 탑재 사용](https://velog.io/@sms8377/DevOps-MS-%EA%B3%B5%EC%8B%9D%EB%AC%B8%EC%84%9C%EB%A1%9C-%EC%9D%B4%ED%95%B4%ED%95%98%EB%8A%94-Docker-%EB%B0%94%EC%9D%B8%EB%93%9C-%ED%83%91%EC%9E%AC-%EC%82%AC%EC%9A%A9)<br>
